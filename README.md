@@ -1,11 +1,11 @@
 <h3 align="left">Hi 👋, I'm Bahtiyarov Shaxzod</h3>
-<h3 align="left">A passionate Backend developer from Palestine</h3>
+<h3 align="left">A Uzbekistan Backend developer from Palestine</h3>
 
 - 🔭 see my Last Project <a href="https://play.google.com/store/apps/details?id=com.muhanned01.gptzero01">BrainyChat - AI Companion</a>
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuhannedAlsoradi](https://github.com/Shaxzodb)
 
-- 💬 Ask me about **Mobile Development**
+- 💬 Ask me about **Backend Development**
 
 - 📫 How to reach me **[Click Here!](https://linktr.ee/muhanneddalsoradi)**
 <hr>
@@ -38,7 +38,7 @@
 ###
 <p align="left">
   <ul>
-    <li>Business Email :<a href="mailto:muhannedalsoradi@gmail.com"> muhannedalsoradi@gmail.com</a></li>
+    <li>Business Email :<a href="mailto: shaxzodbahtiyarov0@gmail.coms">shaxzodbahtiyarov0@gmail.com</a></li>
     <li>Personal Email :<a href="mailto:mhndalsrdy14@gmail.com"> mhndalsrdy14@gmail.com</a></li>
   </ul>  
 
