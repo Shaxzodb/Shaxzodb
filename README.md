@@ -1,21 +1,49 @@
-<h3 align="left">Hi 👋, I'm Muhanned Alsoradi</h3>
-<h3 align="left">A passionate Mobile developer from Palestine</h3>
+<h3 align="left">Hi 👋, I'm Bahtiyarov Shaxzod</h3>
+<h3 align="left">A passionate Backend developer from Palestine</h3>
 
 - 🔭 see my Last Project <a href="https://play.google.com/store/apps/details?id=com.muhanned01.gptzero01">BrainyChat - AI Companion</a>
 
-- 👨‍💻 All of my projects are available at [https://github.com/MuhannedAlsoradi](https://github.com/MuhannedAlsoradi)
+- 👨‍💻 All of my projects are available at [https://github.com/MuhannedAlsoradi](https://github.com/Shaxzodb)
 
 - 💬 Ask me about **Mobile Development**
 
 - 📫 How to reach me **[Click Here!](https://linktr.ee/muhanneddalsoradi)**
 <hr>
 <h3 align="left">Connect with me:</h3>
+
+###
+
+<div align="left">
+  <a href="mailto:shaxzodbahtiyarov0@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/SoftwareSage" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://wa.me/+9720598191753" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/muhanned-alsoradi-695327244/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.facebook.com/profile.php?id=100010273774769" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://linktr.ee/muhanneddalsoradi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
+  </a>
+</div>
+
+###
 <p align="left">
   <ul>
     <li>Business Email :<a href="mailto:muhannedalsoradi@gmail.com"> muhannedalsoradi@gmail.com</a></li>
     <li>Personal Email :<a href="mailto:mhndalsrdy14@gmail.com"> mhndalsrdy14@gmail.com</a></li>
   </ul>  
-</p>
+
+
+
 <hr>
 <h2>Samples from my projects</h2>
 <h3>Taskoo - ToDo list & Notes</h3>
@@ -30,7 +58,19 @@ First page contains your daily and weekly report as well as the number of perfor
 You can share the app with your mates directly from the application you also get the chance to contact the developer when needed.
   <br>
 </p>
-<p><a href="https://play.google.com/store/apps/details?id=com.muhanned01.taskoo" align="center" target="_blank" ><img src="https://www.fcsok.org/wp-content/uploads/2020/04/get-it-on-google-play-badge.png" width="30%"></img></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.muhanned01.taskoo" align="center" target="_blank" ><img src="https://camo.githubusercontent.com/6a201cb97d03bc046f135d063bd3949856526d0ba23e3d45edc436a1fa5499e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47657425323069742532306f6e253230676f6f676c65253230706c61792d626c75652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d706c6179" width="40%"></img></a></p>
+<hr>
+<h3>RexSouq - Digital items shop</h3>
+<p>Free shipping with home delivery
+Search for all the products you want with the options of advanced search, classification, and quick browsing of all pages
+You can put the products you want in the shopping cart or your wishlist to buy them later, and the products will be synchronized in your account across all devices
+various payment options; Pay cash on delivery, credit or debit cards, or even easy monthly installment payment plans
+Easy return policy within 14 business days
+Get special offers when you shop using the app.
+  <br>
+</p>
+<p><a href="https://play.google.com/store/apps/details?id=com.Gamers.Shopping&hl=en_US&gl=US" align="center" target="_blank" ><img src="https://camo.githubusercontent.com/6a201cb97d03bc046f135d063bd3949856526d0ba23e3d45edc436a1fa5499e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47657425323069742532306f6e253230676f6f676c65253230706c61792d626c75652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d706c6179" width="40%"></img></a></p>
+<p><a href="https://apps.apple.com/sa/app/%D8%B3%D9%81%D9%86-%D8%AA%D9%8A-%D9%82%D9%8A%D9%85%D8%B1/id1559331777?l=ar" align="center" target="_blank" ><img src="https://camo.githubusercontent.com/84d0c40978410f7bcbf2eb4a4d026edf86d2964076277aedebf9cb519c141064/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47657425323069742532306f6e25323061707025323073746f72652d626c61636b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6170702d73746f7265266c6f676f436f6c6f723d7768697465" width="40%"></img></a></p>
 <hr>
 <h3>BrainyChat - AI Companion</h3>
 <p>
@@ -49,21 +89,48 @@ The ability to Share any answer you want.
 You can convert text to audio.
   <br>
 </p>
-<p><a href="https://play.google.com/store/apps/details?id=com.muhanned01.gptzero01" align="center" target="_blank" ><img src="https://www.fcsok.org/wp-content/uploads/2020/04/get-it-on-google-play-badge.png" width="30%"></img></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.muhanned01.gptzero01" align="center" target="_blank" ><img src="https://camo.githubusercontent.com/6a201cb97d03bc046f135d063bd3949856526d0ba23e3d45edc436a1fa5499e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47657425323069742532306f6e253230676f6f676c65253230706c61792d626c75652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d706c6179" width="40%"></img></a></p>
 <hr>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<h2 align="left">Languages & Tools I code with:</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhannedalsoradi&show_icons=true&locale=en&layout=compact" alt="muhannedalsoradi" /></p>
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theebhut) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhanned-alsoradi-695327244/) 
+###
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MuhannedAlsoradi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MuhannedAlsoradi&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhannedAlsoradi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=MuhannedAlsoradi&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" height="40" alt="xd logo"  />
+</div>
+<hr>
+<h2>📊 GitHub stats:</h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhannedalsoradi&show_icons=true&locale=en" alt="muhannedalsoradi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhannedalsoradi&show_icons=true&locale=en&layout=compact" alt="muhannedalsoradi" /></p>
