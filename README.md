@@ -1,4 +1,19 @@
-
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center">
+<img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+</p>
+<div align="center" id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Shaxzodb&style=flat-square&color=blue" alt=""></p>
 <h3 align="left">Hi 👋, I'm Bahtiyarov Shaxzod</h3>
 <h3 align="left">Backend developer from Uzbekistan</h3>
 
@@ -9,7 +24,9 @@
 - 💬 Ask me about **Backend Development**
 
 - 📫 How to reach me **[Click Here!](https://linktr.ee/shaxzodbahtiyarov)**
-<hr>
+
+###
+
 <h3 align="left">Connect with me:</h3>
 
 ###
@@ -36,11 +53,14 @@
 </div>
 
 ###
+
 <p align="left">
   <ul>
     <li>Business Email :<a href="mailto: shaxzodbahtiyarov0@gmail.coms">shaxzodbahtiyarov0@gmail.com</a></li>
   </ul>  
-<hr>
+  
+###
+
 <h2>Samples from my projects</h2>
 <h3>Taskoo - ToDo list & Notes</h3>
 <p>Organize & manage tasks, time and make notes of things you love.
@@ -52,11 +72,10 @@ it  supports both English and Arabic languages.
 It supports dark mood.
 First page contains your daily and weekly report as well as the number of performed tasks and the left ones , with percentage of your productivity for the week.
 You can share the app with your mates directly from the application you also get the chance to contact the developer when needed.
-  <br>
 </p>
-<p><a href="https://play.google.com/store/apps/details?id=com.muhanned01.taskoo" align="center" target="_blank" ><img src="https://camo.githubusercontent.com/6a201cb97d03bc046f135d063bd3949856526d0ba23e3d45edc436a1fa5499e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47657425323069742532306f6e253230676f6f676c65253230706c61792d626c75652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d706c6179" width="40%"></img></a></p>
 
-<hr>
+###
+
 <h2 align="left">Languages & Tools I code with:</h2>
 
 ###
@@ -106,28 +125,10 @@ You can share the app with your mates directly from the application you also get
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   
 </div>
-<hr>
+###
 <h2>📊 GitHub stats:</h2>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaxzodb&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaxzodb&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaxzodb&show_icons=true"/>
-</picture>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Shaxzodb&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Shaxzodb&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaxzodb&show_icons=true" />
-</picture>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shaxzodb&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaxzodb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
