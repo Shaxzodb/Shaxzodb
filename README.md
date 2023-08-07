@@ -142,3 +142,4 @@ You can convert text to audio.
 <h2>📊 GitHub stats:</h2>
 <p>&nbsp;<img align="center" style="width:100% " src="https://github-readme-stats.vercel.app/api?username=Shaxzodb&show_icons=true&locale=en" alt="Shaxzodb" /></p>
 <p><img align="left" style="width:100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaxzodb&show_icons=true&locale=en&layout=compact" alt="shaxzodb" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaxzodb&show=reviews)
