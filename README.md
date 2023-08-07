@@ -1,3 +1,18 @@
+<style>
+  h3 {
+  color: red;
+  animation: myanimation 2s infinite;
+}
+
+@keyframes myanimation {
+  from {
+    color: red;
+  }
+  to {
+    color: yellow;
+  }
+}
+</style>
 <h3 align="left">Hi 👋, I'm Bahtiyarov Shaxzod</h3>
 <h3 align="left">Backend developer from Uzbekistan</h3>
 
