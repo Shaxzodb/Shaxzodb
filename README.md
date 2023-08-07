@@ -141,6 +141,6 @@ You can convert text to audio.
 <hr>
 <h2>📊 GitHub stats:</h2>
 <p>&nbsp;<img align="center" style="width:100% " src="https://github-readme-stats.vercel.app/api?username=Shaxzodb&show_icons=true&locale=en" alt="Shaxzodb" /></p>
-<p><img align="left" style="width:100%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark" alt="shaxzodb" /></p>
+<p><img align="left" style="width:100%" src="https://github-readme-stats.vercel.app/api?username=Shaxzodb&show_icons=true&theme=onedark" alt="shaxzodb" /></p>
 <p><img align="left" style="width:100%" src="https://github-readme-stats.vercel.app/api?username=Shaxzodb&show=reviews" alt="shaxzodb" /></p>
 
