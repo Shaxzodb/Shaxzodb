@@ -1,5 +1,5 @@
 
-<h3 class="color: red; animation: myanimation 2s infinite; @keyframes myanimation { from { color: red;} to {color: yellow;}" align="left">Hi 👋, I'm Bahtiyarov Shaxzod</h3>
+<h3 class="color: red;" align="left">Hi 👋, I'm Bahtiyarov Shaxzod</h3>
 <h3 align="left">Backend developer from Uzbekistan</h3>
 
 - 🔭 see my Last Project <a href="https://play.google.com/store/apps/details?id=com.muhanned01.gptzero01">BrainyChat - AI Companion</a>
