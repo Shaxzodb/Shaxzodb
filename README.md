@@ -125,7 +125,9 @@ You can share the app with your mates directly from the application you also get
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   
 </div>
+
 ###
+
 <h2>📊 GitHub stats:</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shaxzodb&theme=dark&background=000000)](https://git.io/streak-stats)
