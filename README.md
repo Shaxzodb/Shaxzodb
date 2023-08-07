@@ -2,13 +2,13 @@
 <h3 align="left">Hi 👋, I'm Bahtiyarov Shaxzod</h3>
 <h3 align="left">Backend developer from Uzbekistan</h3>
 
-- 🔭 see my Last Project <a href="https://play.google.com/store/apps/details?id=com.muhanned01.gptzero01">BrainyChat - AI Companion</a>
+- 🔭 see my Last Project <a href="https://shaxzodbahtiyarov.pythonanywhere.com/en/">Talim Platfotmasi</a>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shaxzodb](https://github.com/Shaxzodb)
 
 - 💬 Ask me about **Backend Development**
 
-- 📫 How to reach me **[Click Here!](https://linktr.ee/shaxzodb)**
+- 📫 How to reach me **[Click Here!](https://linktr.ee/shaxzodbahtiyarov)**
 <hr>
 <h3 align="left">Connect with me:</h3>
 
@@ -18,13 +18,13 @@
   <a href="mailto:shaxzodbahtiyarov0@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://t.me/Shaxzodb" target="_blank">
+  <a href="https://t.me/shaxzodbahtiyarov" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
   <a href="https://wa.me/+998937223620" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/shaxzod-bahtiyarov-293b54239/" target="_blank">
+  <a href="https://www.linkedin.com/in/shaxzod-bahtiyarov-ab7a6b252/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/shaxzodbahtiyarov/" target="_blank">
@@ -110,24 +110,24 @@ You can share the app with your mates directly from the application you also get
 <h2>📊 GitHub stats:</h2>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaxzodb&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shaxzodb&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaxzodb&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shaxzodb&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaxzodb&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaxzodb&show_icons=true"/>
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Shaxzodb&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=shaxzodb&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Shaxzodb&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=shaxzodb&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shaxzodb&show_icons=true" />
 </picture>
