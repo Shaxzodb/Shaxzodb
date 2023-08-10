@@ -62,7 +62,8 @@
 ###
 
 <h2>Samples from my projects</h2>
-<h3>Taskoo - ToDo list & Notes</h3>
+
+***Taskoo - ToDo list & Notes***
 <p>Organize & manage tasks, time and make notes of things you love.
 Organize & manage tasks, time and make notes of things you love.
 Taskoo allows you to manage your daily or weekly tasks in a professional way with a time reminder option.
@@ -74,11 +75,8 @@ First page contains your daily and weekly report as well as the number of perfor
 You can share the app with your mates directly from the application you also get the chance to contact the developer when needed.
 </p>
 
-###
 
-<h2 align="left">Languages & Tools I code with:</h2>
-
-###
+### ***Languages & Tools I code with:***
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -127,7 +125,6 @@ You can share the app with your mates directly from the application you also get
   
 </div>
 
-###
 
 <h2>📊 GitHub stats:</h2>
 
